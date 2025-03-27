@@ -1,7 +1,7 @@
 # ASR-Fine-Tuning-with-Nvidia-NeMo
 
-In this course you'll learn to build, train, fine-tune, and deploy a GPU-accelerated
-automatic speech recognition service (ASR) with [NVIDIA Riva](https://developer.nvidia.com/riva) and [NVIDIA NeMo](https://developer.nvidia.com/nemo). 
+Build, train, fine-tune, and deploy a GPU-accelerated
+automatic speech recognition service (ASR) with NVIDIA Riva and NVIDIA NeMo. 
 
 <img src="images/intro/flow_custom_asr.png" width=1000>
 
