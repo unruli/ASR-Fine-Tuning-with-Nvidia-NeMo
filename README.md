@@ -8,7 +8,7 @@ automatic speech recognition service (ASR) with NVIDIA Riva and NVIDIA NeMo.
 
 <img src="images/flow_custom_asr.png" width=1000>
 
-# 4.1 NVIDIA Riva
+# NVIDIA Riva
 
 [NVIDIA Riva](https://developer.nvidia.com/riva) is a GPU-accelerated SDK for building speech AI applications, customized for your use case, and delivering real-time performance. <br>
 Riva offers a rich set of speech and natural language understanding services such as:
