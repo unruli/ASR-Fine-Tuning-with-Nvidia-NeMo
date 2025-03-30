@@ -72,7 +72,7 @@ Enhance the model's ability to recognize important or frequently used words:
 
 ## 🛠️ Step 5: Fine-Tune ASR Model with NVIDIA NeMo
 
-Fine-tune an existing **US English (en-US)** Riva ASR acoustic model to Nigerian English (en-NG):
+Fine-tune an existing **US English (en-US)** Riva ASR acoustic model to Nigerian English (en-NG):  [Data Source](https://www.openslr.org/70/)
 
 - Use **NVIDIA NeMo** for the fine-tuning process.
 - Train on your curated Nigerian English dataset.
