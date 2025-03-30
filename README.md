@@ -22,3 +22,6 @@ Riva offers a rich set of speech and natural language understanding services suc
 - Neural machine translation ([NMT](https://docs.nvidia.com/deeplearning/riva/user-guide/docs/translation/translation-overview.html)) between English and several other widely spoken languages, including Chinese, French, German, Russian, and Spanish.
 
 The models and datasets are often quite large.  To streamline the process, some of these have been preloaded. In that case, the original steps are documented.
+
+Finetuned Data
+This data set contains transcribed high-quality audio of Nigerian English sentences recorded by volunteers, in Lagos Nigerian and in London. The data set consists of wave files, and a TSV file (line_index.tsv). The file line_index.tsv contains a anonymized FileID and the transcription of audio in the file.
